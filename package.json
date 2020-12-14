@@ -28,8 +28,8 @@
   ],
   "author": "Lucas Ferreira <contato@lucasferreira.com>",
   "license": "MIT",
-  "repository": "https://github.com/lucasferreira/react-native-send-intent",
-  "bugs": "https://github.com/lucasferreira/react-native-send-intent/issues",
+  "repository": "https://github.com/eaeao/react-native-send-intent",
+  "bugs": "https://github.com/eaeao/react-native-send-intent/issues",
   "peerDependencies": {
     "react-native": "*"
   }
